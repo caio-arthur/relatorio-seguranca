@@ -1,0 +1,33 @@
+# Arquivos de cache e compilados do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ambiente virtual
+.venv/
+env/
+venv/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Arquivos do Jupyter
+.ipynb_checkpoints/
+
+# Dados locais
+*.parquet
+*.csv
+*.xlsx
+
+# Configurações do sistema
+.DS_Store
+Thumbs.db
