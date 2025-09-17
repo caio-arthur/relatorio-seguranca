@@ -13,14 +13,18 @@ incidentes e padrões de ataque.
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/relatorio_rede.git
-   cd relatorio_rede
+   git clone https://github.com/caio-arthur/relatorio-seguranca.git
+   cd relatorio-seguranca
 
 2. Crie um ambiente virtual:
-python -m venv .venv
+   ```bash
+   python -m venv .venv
+   
 
-3. Ative o ambiente virtual:
-.venv\Scripts\Activate
+4. Ative o ambiente virtual:
+   ```bash
+   .venv\Scripts\Activate
 
-4. Instale as dependências:
-pip install -r requirements.txt
+6. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
